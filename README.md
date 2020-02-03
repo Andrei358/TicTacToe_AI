@@ -10,4 +10,5 @@ game.start_game();
 ```
 
 To input a move in the console type the coordinates as such:
-![screenshot](example.jpg)
+
+![screenshot](/example.JPG)
